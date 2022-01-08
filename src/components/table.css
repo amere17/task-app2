@@ -1,0 +1,12 @@
+table, th, td {
+    border:1px solid black;
+    Margin: 0 auto;
+    background:rgb(59, 180, 114);
+    color:white;
+    padding:10px;
+    
+  }
+  table{
+    max-width: 450px;
+    max-height: 350px;
+  }

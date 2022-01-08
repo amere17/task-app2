@@ -1,0 +1,20 @@
+text {
+    font-size: .7em;
+    fill: white;
+    width: fit-content;
+  }
+  
+  rect {
+    fill: blue;
+  }
+  .chart-style{
+    max-width: 450px;
+    max-height: 350px;
+    border:1px solid black;
+    Margin: 0 auto;
+    background:rgb(59, 180, 114);
+    color:white;
+  }
+  svg{
+    padding: 5px;
+  }

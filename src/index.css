@@ -1,13 +1,61 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+
+header {
+  background: wheat;  
+  padding: 2rem;
+  margin: 10px 0 0 15px;
+  width: 100%;
+  width: 100%;
+}
+footer {
+  background: wheat;
+  padding: 2rem;
+  margin: 10px 0 0 15px;
+  width: 100%;
+}
+img{
+  font-size: 30px;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+h2{
+padding-left: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa {
+  font-size: 30px;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+#navList {
+  margin-top: 0px;
+   display: inline-block;
+   width: 70%;
+  margin-left: 0px;
+   text-align: center;
+  height: 50px;
+}
+
+#navList li {
+
+  display: inline;
+  float: left;
+  list-style-type: none;
+  padding: 0 5px;
 }
